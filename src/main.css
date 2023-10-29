@@ -37,6 +37,10 @@ body{
     height: auto;
     border-radius: 10px;
 }
+h1{
+    font-size: 17px;
+    text-align: center;
+}
 input,button{
     height: 50px;
     border: none;
